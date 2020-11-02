@@ -3,6 +3,8 @@
 A Simple web based application written in Python hosted in heroku 
 
 
+The app takes customer feedback and sends it to the admins or specified email IDs.Also stores these in a postgres DB. 
+
 
 ### Challenges
 
